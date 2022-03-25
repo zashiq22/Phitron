@@ -1,1 +1,7 @@
 Hello everyone. this is me doing nothing.
+
+add >> git add filename
+
+commit >> git commit -m "message" file_name
+
+push >> git push -u origin main.
