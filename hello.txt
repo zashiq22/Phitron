@@ -1,5 +1,12 @@
 Hello everyone. this is me doing nothing.
 
+configure git account >> git config --global user.name "user_name"
+
+                         git config --global user.email xyz@gmail.com
+
+
+clone repo >> git clone repo_path
+
 add >> git add filename
 
 commit >> git commit -m "message" file_name
